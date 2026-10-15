@@ -1,0 +1,10 @@
+{
+  "name": "Remix Cupertino Stock — ระบบจัดการสต๊อกสินค้า",
+  "description": "ระบบจัดการสต๊อกสินค้า เบิก-รับเข้า และรายงานสินค้าคงเหลือ เชื่อมต่อ Google Sheets แบบเรียลไทม์ ดีไซน์สไตล์ Apple ใช้งานง่ายบนมือถือและคอมพิวเตอร์",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
